@@ -1,3 +1,5 @@
+![AI Banner](https://your-image-url.com/banner.png)
+
 # AI Automation Developer | LLM & RAG Architectures
 
 Backend-focused engineer building AI-powered automation systems for different services.
