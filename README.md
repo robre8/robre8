@@ -2,7 +2,7 @@
 ![AI](https://img.shields.io/badge/AI-LLM%20%7C%20RAG-green)
 ![Fintech](https://img.shields.io/badge/Focus-Financial%20Automation-orange)
 
-![AI Banner](https://your-image-url.com/banner.png)
+![AI Banner](Imagen banner IA.png‎)
 
 # AI Automation Developer | LLM & RAG Architectures
 
