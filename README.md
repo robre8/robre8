@@ -2,7 +2,7 @@
 ![AI](https://img.shields.io/badge/AI-LLM%20%7C%20RAG-green)
 ![Fintech](https://img.shields.io/badge/Focus-%20Automation-orange)
 
-![AI Banner](./Imagen banner IA.png‎)](https://github.com/robre8/robre8/blob/main/Imagen%20banner%20IA.png)
+![AI Banner](https://github.com/robre8/robre8/blob/main/Imagen%20banner%20IA.png)
 
 # AI Automation Developer | LLM & RAG Architectures
 
