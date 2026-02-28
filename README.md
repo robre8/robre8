@@ -1,13 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
 ![AI](https://img.shields.io/badge/AI-LLM%20%7C%20RAG-green)
 ![Fintech](https://img.shields.io/badge/Focus-%20Automation-orange)
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/robre8/robre8/main/banner.png](https://github.com/robre8/robre8/blob/main/Imagen%20banner%20IA.png" />
-</p>
-
-![AI Banner](https://github.com/robre8/robre8/blob/main/Imagen%20banner%20IA.png))
+![AI Banner](https://github.com/robre8/robre8/blob/main/Imagen%20banner%20IA.png)
 # AI Automation Developer | LLM & RAG Architectures
 
 Backend-focused engineer building AI-powered automation systems for different services.
