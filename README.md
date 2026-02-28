@@ -1,6 +1,6 @@
-# AI Automation Engineer | Financial Systems | LLM & RAG Architectures
+# AI Automation Developer | LLM & RAG Architectures
 
-Backend-focused engineer building AI-powered automation systems for financial services.
+Backend-focused engineer building AI-powered automation systems for different services.
 
 I specialize in designing and deploying intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-driven automation pipelines.
 
@@ -10,7 +10,7 @@ I specialize in designing and deploying intelligent systems using Large Language
 
 - AI Automation Systems (LLMs, RAG, Agents)
 - Python & Backend Engineering
-- Financial AI Applications
+- AI Applications
 - REST APIs & Microservices
 - Test Automation with AI
 - CI/CD & Deployment Pipelines
@@ -62,8 +62,8 @@ I build AI systems with an engineering-first mindset:
 **Languages:** Python, Java, JavaScript  
 **Backend:** Spring Boot, REST APIs  
 **Frontend:** React, Vite  
-**AI:** OpenAI API, Embeddings, RAG pipelines  
-**Database:** PostgreSQL  
+**AI:** OpenAI API, Embeddings, RAG pipelines, Groq, Hugging Face  
+**Database:** PostgreSQL, MySQL, MongoDB 
 **Deployment:** Railway, Render, Vercel  
 **Tools:** GitHub Actions, Postman, Docker
 
@@ -77,7 +77,7 @@ I build AI systems with an engineering-first mindset:
 
 ---
 
-> Building intelligent automation systems that transform financial workflows through AI.
+> Building intelligent automation systems that transform workflows through AI.
 
 <!--
 **robre8/robre8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
