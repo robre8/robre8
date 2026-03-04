@@ -1,99 +1,82 @@
 ![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![AI](https://img.shields.io/badge/AI-LLM%20%7C%20RAG-green)
-![Fintech](https://img.shields.io/badge/Focus-%20Automation-orange)
+![Backend](https://img.shields.io/badge/Focus-Backend%20Engineering-green)
+![APIs](https://img.shields.io/badge/REST-APIs-orange)
 
-# AI Automation Developer | LLM & RAG Architectures
+# Backend Software Engineer | Python & API Development
 
-Backend-focused engineer building AI-powered automation systems for different services.
+Backend-focused Software Engineer with hands-on experience building and deploying scalable web applications using Python, FastAPI, and PostgreSQL.
 
-I specialize in designing and deploying intelligent systems using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI-driven automation pipelines.
+I design clean, maintainable REST APIs, implement authentication systems, integrate third-party services, and deploy production-ready applications using Docker and modern cloud platforms.
+
+While my core focus is backend engineering, I also have experience integrating AI-powered workflows into real-world applications.
 
 ---
 
 ## 🚀 Core Expertise
 
-- AI Automation Systems (LLMs, RAG, Agents)
-- Python & Backend Engineering
-- AI Applications
-- REST APIs & Microservices
-- Test Automation with AI
-- CI/CD & Deployment Pipelines
-- Prompt Engineering & Structured Outputs
-- Scalable System Design
+- Backend API Development (FastAPI, Spring Boot)
+- RESTful Architecture & Client-Server Design
+- Database Modeling (PostgreSQL, MySQL)
+- Authentication & Security (JWT, validation)
+- Docker & Deployment Workflows
+- Unit Testing & Debugging
+- Git & CI/CD Basics
 
 ---
 
-## 🧠 Featured AI Projects
+## 🧠 Selected Projects
 
 ### 🔹 AI Financial Copilot
-LLM-powered financial assistant using Retrieval-Augmented Generation (RAG) and backend microservices architecture.
+Production-ready backend system implementing Retrieval-Augmented Generation (RAG) for financial document analysis.
 
-- Context-aware financial analysis
-- Secure API integration
-- Backend + Frontend architecture
-- Production deployment
+- FastAPI backend architecture
+- PostgreSQL + vector search
+- Secure authentication
+- Docker-based deployment
 
 👉 View Project: https://github.com/robre8/ai-financial-copilot
 
 ---
 
 ### 🔹 AI Test Generator
-Automated backend test generation pipeline using LLM reasoning to reduce manual QA effort.
+Backend automation system that generates and validates test cases using structured LLM outputs.
 
-- Intelligent test case generation
-- Backend validation automation
-- CI/CD-ready design
+- REST API design
+- Secure execution constraints
+- Validation and error handling
+- CI/CD-ready structure
 
 👉 View Project: https://github.com/robre8/ai-test-generator
 
 ---
 
-## 🏗️ Engineering Approach
+## 🏗️ Engineering Principles
 
-I build AI systems with an engineering-first mindset:
-
-- Clear system architecture
-- Secure API key management
-- Hallucination mitigation strategies
-- Input validation & structured outputs
-- Scalable backend design
-- Clean repository organization
+- Clean and modular architecture
+- Separation of concerns
+- Clear folder structure and documentation
+- Secure input handling
+- Maintainable and scalable code
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:** Python, Java, JavaScript  
-**Backend:** Spring Boot, REST APIs  
-**Frontend:** React, Vite  
-**AI:** OpenAI API, Embeddings, RAG pipelines, Groq, Hugging Face  
-**Database:** PostgreSQL, MySQL, MongoDB 
+**Languages:** Python, JavaScript, Java  
+**Backend:** FastAPI, Spring Boot  
+**Frontend:** React  
+**Database:** PostgreSQL, MySQL  
+**DevOps:** Docker, GitHub Actions  
 **Deployment:** Railway, Render, Vercel  
-**Tools:** GitHub Actions, Postman, Docker
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
-- 🌐 Portfolio: https://ronnybrenes.com
-- 💼 LinkedIn: https://www.linkedin.com/in/ronny-brenes/
-- 📧 Open to AI Automation & Fintech Opportunities
+🌐 Portfolio: https://ronnybrenes.com  
+💼 LinkedIn: https://www.linkedin.com/in/ronny-brenes/  
+📧 Open to Backend and Fullstack Opportunities
 
 ---
 
-> Building intelligent automation systems that transform workflows through AI.
-
-<!--
-**robre8/robre8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Building reliable backend systems that scale.
