@@ -2,7 +2,7 @@
 ![Backend](https://img.shields.io/badge/Focus-Backend%20Engineering-green)
 ![APIs](https://img.shields.io/badge/REST-APIs-orange)
 
-# IA Backend & FullStack Software Engineer | Python & API Development
+# Backend & FullStack Software Engineer | Python & API Development
 
 Backend-focused Software Engineer with hands-on experience building and deploying scalable web applications using Python, FastAPI, and PostgreSQL.
 
