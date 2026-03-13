@@ -4,7 +4,7 @@
 
 # Backend & FullStack Software Developer | Python & API Development
 
-Backend-focused Software Engineer with hands-on experience building and deploying scalable web applications using Python, FastAPI, and PostgreSQL.
+Backend-focused Software Developer with hands-on experience building and deploying scalable web applications using Python, FastAPI, and PostgreSQL.
 
 I design clean, maintainable REST APIs, implement authentication systems, integrate third-party services, and deploy production-ready applications using Docker and modern cloud platforms.
 
