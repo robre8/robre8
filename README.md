@@ -38,13 +38,13 @@ Production-grade AI assistant for reproductive healthcare clinics, implementing 
 
 👉 View Project: https://github.com/robre8/fertiGuide-ai · Live Demo: https://ferti-guide-ai.vercel.app/
 
-### 🔹 TaskFlow — Project Management Platform
+###🔹 TaskFlow — Project Management Platform
 Full-stack project management app inspired by Linear, with Kanban board, real-time status updates, and role-based access control.
 
--NestJS backend with modular architecture (auth, users, workspaces, projects, tasks, comments)
--JWT with httpOnly cookies, refresh tokens, bcrypt, Helmet, rate limiting
--Next.js 14 App Router frontend with TypeScript and Tailwind CSS
--PostgreSQL + TypeORM · Railway · Vercel · GitHub Actions CI/CD
+- NestJS backend with modular architecture (auth, users, workspaces, projects, tasks, comments)
+- JWT with httpOnly cookies, refresh tokens, bcrypt, Helmet, rate limiting
+- Next.js 14 App Router frontend with TypeScript and Tailwind CSS
+- PostgreSQL + TypeORM · Railway · Vercel · GitHub Actions CI/CD
 
 👉 View Project: https://github.com/robre8/taskflow · Live Demo: https://taskflow-smoky-seven.vercel.app/
 
