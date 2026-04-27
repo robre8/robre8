@@ -1,6 +1,3 @@
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![Backend](https://img.shields.io/badge/Focus-Backend%20Engineering-green)
-![APIs](https://img.shields.io/badge/REST-APIs-orange)
 
 # FullStack & Backend Software Developer | Python & API Development · TypeScript · AI Integration
 
