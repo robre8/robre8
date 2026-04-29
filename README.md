@@ -24,7 +24,7 @@ While my core focus is backend engineering, I also have experience integrating A
 
 ## 🧠 Selected Projects
 
-###🔹 FertiGuide AI — Clinical RAG Assistant
+### 🔹 FertiGuide AI — Clinical RAG Assistant
 Production-grade AI assistant for reproductive healthcare clinics, implementing a RAG pipeline over clinical documents with client-side ML inference.
 
 - Next.js + TypeScript frontend with TensorFlow.js (ONNX, in-browser inference)
@@ -35,7 +35,7 @@ Production-grade AI assistant for reproductive healthcare clinics, implementing 
 
 👉 View Project: https://github.com/robre8/fertiGuide-ai · Live Demo: https://ferti-guide-ai.vercel.app/
 
-###🔹 TaskFlow — Project Management Platform
+### 🔹 TaskFlow — Project Management Platform
 Full-stack project management app inspired by Linear, with Kanban board, real-time status updates, and role-based access control.
 
 - NestJS backend with modular architecture (auth, users, workspaces, projects, tasks, comments)
@@ -55,7 +55,7 @@ Production-ready backend system implementing Retrieval-Augmented Generation (RAG
 
 👉 View Project: https://github.com/robre8/ai-financial-copilot  Live Demo: https://ai-financial-copilot.vercel.app/
 
-###🔹 Urbia — Urban Reports Platform with AI
+### 🔹 Urbia — Urban Reports Platform with AI
 Full-stack platform for geolocated urban incident reporting with real-time map, multimedia upload, and AI-powered content moderation and enrichment.
 
 - FastAPI backend + PostgreSQL + JWT authentication
